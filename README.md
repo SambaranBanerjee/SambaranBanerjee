@@ -1,89 +1,90 @@
-⭐ Sambaran Banerjee
-🚀 Full Stack Developer • React Native Developer • Backend Engineer (Node.js / TypeScript)
+<div align="center">
+  <h1>Hi there, I'm Sambaran Banerjee! 👋</h1>
+  <p>
+    <strong>Full Stack Developer | Cloud Enthusiast | CSE Student</strong>
+  </p>
+  
+  <p>
+    <a href="https://linkedin.com/in/sambaran-banerjee-4b89b9299" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:Sambaranb25@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-Hi! I’m Sambaran, a third-year Computer Science Engineering student and a passionate Full Stack & React Native developer who loves building scalable, user-focused applications.
+---
 
-I enjoy solving real-world problems with clean code, modern frameworks, and cloud technologies. I’ve interned as both a Full Stack Developer and Backend Engineer, and I’m constantly improving by contributing to projects, hackathons, and open-source work.
+### 👨‍💻 Who Am I?
 
-🧰 Tech Stack I Work With
-🚀 Languages & Databases
+I am a **3rd-year Computer Science & Engineering student** at Jalpaiguri Government Engineering College with a passion for building scalable, production-grade applications. 
 
-Python • C++ • JavaScript • TypeScript
-SQL • PostgreSQL • MongoDB
+My journey involves leading intern teams, optimizing backend performance, and competing globally in hackathons. I thrive in full-stack environments where I can leverage **React**, **Node.js**, and **Cloud technologies** to solve real-world problems.
 
-🧩 Frameworks & Libraries
+- 🔭 **I’m currently working on:** Scaling AI-powered disaster management solutions.
+- 🏆 **Major Achievement:** Top 14 Global Finalist in **Google Solution Challenge 2025** (out of 64,000+ participants).
+- 🤝 **I’m looking to collaborate on:** Open-source projects involving Cloud Architecture and React Native.
 
-React.js • React Native • Express.js • TailwindCSS
+---
 
-🛠 Tools & Cloud
+### 🛠️ Tech Stack & Tools
 
-Git • GitHub • VS Code
-Firebase • Google Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java" height="40" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwindcss,spring,postgres,mongodb,firebase,gcp" height="40" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="40" alt="tools" />
+</div>
 
-🔥 What I’m Currently Working On
+<br/>
 
-📱 Building advanced React Native apps with offline-first architecture
+| **Domain** | **Technologies** |
+| :---             | :--- |
+| **Languages** | Python, C++, JavaScript, TypeScript, SQL |
+| **Frontend** | ReactJS, React Native, TailwindCSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express.js, Spring Boot, TypeORM |
+| **Databases** | PostgreSQL, MongoDB, Firebase |
+| **Tools** | Git, Google Cloud Platform, VS Code |
 
-🧠 Creating scalable backend systems using TypeScript + PostgreSQL
+---
 
-☁ Expanding skills in Cloud + DevOps fundamentals
+### 💼 Professional Experience
 
-🤖 Experimenting with AI-powered features for mobile and web apps
+**Full Stack Developer @ Calanjiyam Consultancies** *(Aug 2025 - Oct 2025)*
+- Delivered 3 scalable full-stack modules using React & Spring Boot.
+- Led a 4-member intern team, optimizing agile workflows.
+- Improved backend API performance by **28%**.
 
-🧪 Participating in hackathons & contributing to impactful open-source projects
+**Backend Developer @ Pearl Thoughts** *(Sept 2025 - Oct 2025)*
+- Built an appointment management backend supporting **5K+ users** with 99.9% uptime.
+- Reduced API response latency by **25%** via PostgreSQL optimization.
 
-🏆 Notable Achievements
+---
 
-🎖️ Top 14 Global Finalist – Google Solution Challenge 2025
+### 🚀 Featured Projects
 
-🛠 Smart India Hackathon 2024 – Regional Finalist
+#### **Trayana - AI-Powered Disaster Management System**
+*React Native, Node.js, Firebase, Twilio*
+> 🏅 **Ranked Top 14 Globally in Google Solution Challenge 2025**
+- A cross-platform app enabling offline SOS alerts and resource allocation.
+- Features real-time hotspot monitoring and relief center location tracking.
 
-🧪 National Science Congress – Finalist
+#### **Q-Med - Medical Consultation Platform**
+*React (TypeScript), Express, MongoDB*
+- Secure consultation platform with JWT authentication and role-based access.
+- Implemented encrypted local storage, improving session retention by **30%**.
 
-👨‍🏫 Led development teams during internships and academic projects
+---
 
-🚀 Featured Projects
-🔹 Trayana – AI-Powered Disaster Management System
+### ⚡ GitHub Stats
 
-React Native • Node.js • Firebase • Twilio
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SambaranBanerjee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sambaran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SambaranBanerjee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
 
-Built SOS, real-time hotspot monitoring, and relief-center locator.
+---
 
-Ranked Top 14 globally among 64,000 participants.
-🔗 Repo: https://github.com/SambaranBanerjee/TrayanaWeb
-
-📱 Mobile App Repo: https://github.com/SambaranBanerjee/TrayanaApp1
-
-🔹 Q-Med – Full Stack Medical Consultation Platform
-
-React (TS) • Express • MongoDB • TailwindCSS
-
-Secure login & JWT-based authentication
-
-Real-time doctor search + consultation flow
-🔗 Repo: https://github.com/SambaranBanerjee/Q-Med
-
-💼 Industry Experience
-Full Stack Developer – Calanjiyam Consultancies
-
-Delivered 3+ production modules using React + Spring Boot
-
-Optimized backend APIs by 28%
-
-Led a 4-member team and improved sprint delivery efficiency
-
-Backend Developer – PearlThoughts
-
-Built appointment backend supporting 5K+ users
-
-Improved API response latency by 25%
-
-Designed secure PostgreSQL schemas with zero data loss
-
-🤝 Let’s Connect
-
-📧 Email: Sambaranb25@gmail.com
-
-🔗 LinkedIn: https://linkedin.com/in/sambaran-banerjee-4b89b9299
-
-🐙 GitHub: https://github.com/SambaranBanerjee
+<div align="center">
+  <sub>Built with ❤️ by Sambaran Banerjee</sub>
+</div>
