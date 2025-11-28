@@ -24,8 +24,8 @@ My journey involves leading intern teams, optimizing backend performance, and co
 
 - 🔭 **I’m currently working on:** Scaling AI-powered disaster management solutions.
 - 🏆 **Major Achievement:** Top 14 Global Finalist in **Google Solution Challenge 2025** (out of 64,000+ participants).
-- 🤝 **I’m looking to collaborate on:** Open-source projects involving Cloud Architecture and React Native.
-
+- 🤝 **I’m looking to collaborate on:** Open-source projects involving Cloud Architecture and Full Stack Development.
+-
 ---
 
 ### 🛠️ Tech Stack & Tools
