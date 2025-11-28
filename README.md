@@ -5,7 +5,7 @@
   </p>
   
   <p>
-    <a href="https://linkedin.com/in/sambaran-banerjee-4b89b9299" target="_blank">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:Sambaranb25@gmail.com">
@@ -24,8 +24,8 @@ My journey involves leading intern teams, optimizing backend performance, and co
 
 - 🔭 **I’m currently working on:** Scaling AI-powered disaster management solutions.
 - 🏆 **Major Achievement:** Top 14 Global Finalist in **Google Solution Challenge 2025** (out of 64,000+ participants).
-- 🤝 **I’m looking to collaborate on:** Open-source projects involving Cloud Architecture and Full Stack Development.
--
+- 🤝 **I’m looking to collaborate on:** Open-source projects involving Cloud Architecture and React Native.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -80,7 +80,8 @@ My journey involves leading intern teams, optimizing backend performance, and co
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SambaranBanerjee&theme=tokyonight&hide_border=true" alt="Sambaran's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SambaranBanerjee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=SambaranBanerjee&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
