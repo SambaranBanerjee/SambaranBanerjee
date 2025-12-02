@@ -22,9 +22,9 @@ I am a **3rd-year Computer Science & Engineering student** at Jalpaiguri Governm
 
 My journey involves leading intern teams, optimizing backend performance, and competing globally in hackathons. I thrive in full-stack environments where I can leverage **React**, **Node.js**, and **Cloud technologies** to solve real-world problems.
 
-- 🔭 **I’m currently working on:** Scaling AI-powered disaster management solutions.
+- 🔭 **I’m currently working on:** An inventory system where users can search for the solution of common mistake, bugs and problems faced by developers.
 - 🏆 **Major Achievement:** Top 14 Global Finalist in **Google Solution Challenge 2025** (out of 64,000+ participants).
-- 🤝 **I’m looking to collaborate on:** Open-source projects involving Cloud Architecture and React Native.
+- 🤝 **I’m looking to collaborate on:** Open-source projects involving Cloud Architecture ,React Native and Any Full Stack Project.
 
 ---
 
