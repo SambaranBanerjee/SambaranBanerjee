@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Who Am I?
 
-I am a **3rd-year Computer Science & Engineering student** at Jalpaiguri Government Engineering College with a passion for building scalable, production-grade applications. 
+I am a **Final year Computer Science & Engineering student** at Jalpaiguri Government Engineering College with a passion for building scalable, production-grade applications. 
 
 My journey involves leading intern teams, optimizing backend performance, and competing globally in hackathons. I thrive in full-stack environments where I can leverage **React**, **Node.js**, and **Cloud technologies** to solve real-world problems.
 
