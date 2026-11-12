@@ -40,20 +40,28 @@ My journey involves leading intern teams, optimizing backend performance, and co
 
 | **Domain** | **Technologies** |
 | :---             | :--- |
-| **Languages** | Python, C++, JavaScript, TypeScript, SQL |
-| **Frontend** | ReactJS, React Native, TailwindCSS, HTML5/CSS3 |
-| **Backend** | Node.js, Express.js, Spring Boot, TypeORM |
-| **Databases** | PostgreSQL, MongoDB, Firebase |
-| **Tools** | Git, Google Cloud Platform, VS Code |
+| **Languages** | Python, TypeScript, JavaScript, C++, SQL |
+| **Frontend** | React.js, React Native, Tailwind CSS |
+| **Backend** | Node.js, Express.js, FastAPI, REST APIs, JWT |
+| **Databases** | PostgreSQL, MongoDB, ChromaDB |
+| **AI/ML** | : RAG, Gemini Embeddings, Sentence Transformers, Google GenAI |
+| **Tools** | Git, GitHub, Docker, Postman, Playwright, OpenCV, Google Cloud |
 
 ---
 
 ### 💼 Professional Experience
 
-**Full Stack Developer @ Calanjiyam Consultancies** *(Aug 2025 - Oct 2025)*
-- Delivered 3 scalable full-stack modules using React & Spring Boot.
-- Led a 4-member intern team, optimizing agile workflows.
-- Improved backend API performance by **28%**.
+**Quality Assurance Engineer** *(Jul 2026 - Nov 2026)*
+- Built and maintained **400+ automated API test cases** using Karate DSL, Java, and Maven, covering positive, negative,
+boundary, validation, and business-rule scenarios across trading, portfolio, market data, and funding workflows.
+- Performed API, manual UI, regression, and end-to-end financial workflow testing;
+- validated transaction states, JSON responses, balances, tax lots, and brokerage transfers while investigating failures and documenting reproducible defects.
+
+**Research Intern – Computer Vision & Mixed Reality** *(May 2026 - Jul 2026)*
+- Engineered markerless 6D CAD-object pose tracking using C++, ViSP, and OpenCV with hybrid EDGE/KLT tracking
+- calibrated the webcam using 24 accepted views with 0.6876 px RMS reprojection error
+- Streamed 4×4 pose matrices over UDP to Unity on Microsoft HoloLens 2;
+- established coordinate alignment and WorldAnchor-based spatial anchoring for holographic CAD overlays in an AR-assisted vehicle inspection prototype.
 
 **Backend Developer @ Pearl Thoughts** *(Sept 2025 - Oct 2025)*
 - Built an appointment management backend supporting **5K+ users** with 99.9% uptime.
